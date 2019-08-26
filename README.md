@@ -1,8 +1,6 @@
 # LearningKidos
 You may find tutorial links and files 
 
-_________________________________________________________________________________________________________________________________________
+(sl no, filename, demo link, description)
 
-Sl.No		File Name						Demo link					File Descritption
-__________________________________________________________________________________________________________________________________________
-1.			glitch.blend						
+1.	glitch.blend	->	http://somelink.com		->	This file shows a quich tutorial for text glitching effect in blender 2.8
